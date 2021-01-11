@@ -1,2 +1,6 @@
 1: Dhaka
-1: Chitagong
+2: Chitagong
+3: Gajipur
+4: Barisal
+5: Rajshahi
+
